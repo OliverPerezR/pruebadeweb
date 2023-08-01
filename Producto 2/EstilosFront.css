@@ -1,0 +1,71 @@
+body{
+    background: url(Imagenes/Fondo.jpg);
+    background-repeat: repeat;
+    font-style: monospace ;
+    /*Es para que el fondo se repita */
+}
+.Titulo1{
+    color: cadetblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: snow;
+    background-size: cover;
+    background-position: center;
+    width: 200px;
+    height: 30px;
+    overflow: hidden;
+}
+u{
+    text-align: center;
+}
+.centrado{
+    background-color: transparent;
+    text-align: center;
+    display: inline-block;
+}
+nav{
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+    text-align: center;
+}
+li{
+    display: inline;
+    text-align: center;
+    margin: 0 10px 0 0;
+    background-color: snow;
+}
+a{
+    padding: 2px 7px;
+    color: #666;
+    background-color: #eee;
+    border: 1px solid;
+    text-decoration: none;
+}
+.imagenes{
+    float: right;
+}
+.imagenesi{
+    float:left ;
+}
+div{
+    border-style:dotted;
+    background-color: rgba(78, 183, 224, 0.303);
+}
+#borde1{
+    border: 4px solid rgb(50, 91, 255);
+}
+#borde2{
+    
+    border: 4px solid rgb(10, 183, 56);
+}
+.bordevideos{
+    border: 10px solid;
+    border-image: linear-gradient(to right, aqua,skyblue,purple);
+    border-image-slice: 10;
+}
+.borderaro{
+    border: 12px solid;
+    border-image: linear-gradient(to left, red,orange,yellow);
+    border-image-slice:10;
+}

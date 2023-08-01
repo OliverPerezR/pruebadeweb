@@ -1,0 +1,104 @@
+body{
+    background: url(Imagenes/Fondo.jpg);
+    background-repeat: repeat;
+    font-style: monospace ;
+    /*Es para que el fondo se repita */
+}
+#div1{
+    border-style:groove;
+    background-color: #87cfeb48;
+    background-repeat: no-repeat;
+}
+#div2{
+    border-style: groove;
+    background-color: #7c57d348;
+    background-repeat: no-repeat;
+}
+h1{
+    color: cadetblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: seashell;
+    background-size: cover;
+    background-position: center;
+    width: 200px;
+    height: 30px;
+    overflow: hidden;
+}
+#bordeQ{
+    border: 4px solid purple;
+}
+#bordeBF
+{
+    border: 14px solid cadetblue;
+}
+#bordevideos{
+    border: 12px solid cornflowerblue;
+}
+.centrar{
+    text-align: center;
+}
+#nav1{
+    text-align: center;
+}
+#ul1{
+    list-style-type: none;
+    text-align: center;
+}
+#li1{
+    display: inline;
+    text-align: center;
+    margin: 0 10px 0 0;
+    background-color: snow;
+}
+#a1{
+    padding: 2px 7px;
+    color: #666;
+    background-color: #eee;
+    border: 1px solid;
+    text-decoration: none;
+}
+--
+#nav2{
+    text-align: center;
+}
+#ul2{
+    list-style-type: none;
+    text-align: center;
+}
+#li2{
+    display: inline;
+    text-align: center;
+    margin: 0 10px 0 0;
+    background-color: snow;
+}
+#a2{
+    padding: 2px 7px;
+    color: #666;
+    background-color: #eee;
+    border: 1px solid;
+    text-decoration: none;
+}
+.Margen{
+    border-style:ridge;
+    color: violet;
+    background-color: antiquewhite;
+    padding: auto;
+    font-style:italic ;
+    text-align: center;
+
+}
+.subtitulos{
+    color:purple;
+    background-color: rgb(134, 198, 188);
+    margin: 1px 1px;
+    font-style:italic;
+    text-align:center;
+
+}
+
+.imagenes{
+    float: right;
+}
+.videos{
+    align-items: center;
+}

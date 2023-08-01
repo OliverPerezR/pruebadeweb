@@ -1,0 +1,111 @@
+body{
+    background: url(Imagenes/Fondo.jpg);
+    background-repeat: repeat;
+    font-style: monospace;
+}
+nav{
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+    text-align: center;
+}
+li{
+    display: inline;
+    text-align: center;
+    margin: 0 10px 0 0;
+    background-color: snow;
+}
+a{
+    padding: 2px 7px;
+    color: #666;
+    background-color: #eee;
+    border: 1px solid;
+    text-decoration: none;
+}
+.subt{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgba(150, 239, 251, 0.401);
+    background-size: cover;
+    background-position: center;
+    width: 400px;
+    height: 40px;
+    overflow: hidden;
+}
+.paraffos{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#borde2{
+    border-style:dashed;
+    background: rgba(235, 135, 228, 0.342);
+}
+#borde1{
+    border-style: dashed;
+}
+#ber{
+    border: 4px solid skyblue;
+    border-style: solid;
+}
+.Titulo1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgba(150, 239, 251, 0.401);
+    background-size: cover;
+    background-position: center;
+    width: 400px;
+    height: 40px;
+    overflow: hidden;
+}
+#Tim{
+    background-color: rgba(220, 20, 60, 0.371);
+    background-position: center;
+    text-align: center;
+
+}
+.TIM{
+    background-color: rgba(188, 55, 255, 0.236);
+    border: 5px darkmagenta;
+    border-style: dotted;
+}
+#frasemamona{
+    font-family: 'Times New Roman', Times, serif;
+    border: 4px rgb(137, 210, 255);
+    border-style:groove;
+    background-color:rgba(34, 128, 178, 0.39);
+}
+.resumen{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: left;
+    background-color: rgba(72, 0, 255, 0.079);
+}
+#div1{
+    background-color:rgba(192, 192, 192, 0.515);
+}
+.coloti{
+    background-color: rgba(0, 255, 255, 0.176);
+}
+.derecha{
+    float: right;
+}
+#table1{
+    text-align: center;
+    background-color:rgba(100, 148, 237, 0.223);
+    border: 4px solid rgba(0, 255, 255, 0.421);
+    border-style: dotted;
+}
+#td1{
+    border: 3px solid violet;
+    border-style:dotted;
+}
+#p1{
+    background-color: rgba(0, 0, 255, 0.219);
+    border-style: groove;
+}
+#p2{
+    background-color: tomato;
+    border-style: double;
+}
+#f{
+    text-align: center;
+    border: 3px solid skyblue;
+    border-style:initial ;
+}
